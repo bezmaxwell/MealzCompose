@@ -9,7 +9,7 @@ import com.example.mealzcompose.model.response.MealResponse
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
-class MealsCategoriesViewModel(private val repository: MealsRepository = MealsRepository()) :
+class MealsCategoriesViewModel(private val repository: MealsRepository = MealsRepository.getInstance()) :
     ViewModel() {
 
     init {
