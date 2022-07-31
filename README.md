@@ -41,7 +41,7 @@ other things you could add:
 
 Please feel free to contribute by adding new features to this project:
 
-1. Fork it (<https://github.com/inessadl/readme>)
+1. Fork it (<https://github.com/bezmaxwell/MealzCompose/)
 2. Create your feature branch (`git checkout -b yourname/feature-mealsCompose`)
 3. Create your fix branch (`git checkout -b yourname/fix-mealsCompose`)
 4. Create your refactor branch (`git checkout -b yourname/refactor-mealsCompose`)
